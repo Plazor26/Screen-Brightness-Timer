@@ -1,4 +1,4 @@
-# Automatic Screen Brightness Control 
+#Automatic Screen Brightness Control 
 
 This python script was developed by the following users - 
 
